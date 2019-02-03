@@ -1,4 +1,4 @@
-PySAL Project ~overnance
+PySAL Project Governance
 ========================
 
 The purpose of this document is to formalize the governance process used by the PySAL project in both ordinary and extraordinary situations, and to clarify how decisions are made and how the various elements of our community interact, including the relationship between open source collaborative development and work that may be funded by for-profit or non-profit entities.
