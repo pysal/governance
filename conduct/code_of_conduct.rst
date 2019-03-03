@@ -140,8 +140,8 @@ themselves from considering your report. Alternatively, if for any
 reason you feel uncomfortable making a report to the committee, then you
 can also contact:
 
--  To Be Determined
-   - <email@address.com>
+-  Julia Koschinsky
+   - jkoschinsky@gmail.com
 
 .. _Code of Conduct gitter channel: https://gitter.im/pysal/code_of_conduct
 
