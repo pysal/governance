@@ -62,8 +62,7 @@ Community.
 
 While this approach has served us well, as the Project grows we see a
 need for a more formal governance model. Moving forward The Project
-leadership will consist of a BDFL and Steering Council, including but
-not limited to all Package Maintainers. We view this governance model as
+leadership will consist of a BDFL and Steering Council, consisting of 3 elected Package Maintainers serving 1 year terms. We view this governance model as
 the formalization of what we are already doing, rather than a change in
 direction.
 
@@ -132,15 +131,13 @@ particular, the Maintainers are responsible for:
 Steering Council
 ----------------
 
-The Project will have a Steering Council that consists of Core
-Developers and Package Maintainers. The overall role of the Council is
+The Project will have a Steering Council that consists of 3 Core
+Developers and Package Maintainers who are nominated and elected to 1 year terms. The overall role of the Council is
 to ensure, through working with the BDFL and taking input from the
 Community, the long-term well-being of the Project, both technically and
 as a community.
 
-The Council will have a Chair, who is tasked with keeping the
-organisational aspects of the functioning of the Council and the Project
-on track. The Council will also appoint a Release Manager for the
+The Council will appoint a Release Manager for the
 Project, who has final responsibility for one or more releases.
 
 During the everyday project activities, Council Members participate in
@@ -169,6 +166,11 @@ situations. In particular, the Council may:
     consensus on an issue in a reasonable time frame. Update policy
     documents such as this one.
 
+### Current Council Members
+- Martin Fleischmann @martinfleis
+- James Gaboardi @jGaboardi
+- Eli Knaap @knaaptime
+
 ### Council Membership
 
 To become eligible for being a Steering Council Member an individual
@@ -177,9 +179,9 @@ contributions that are substantial in quality and quantity, and
 sustained over at least one year. Potential Council Members are
 nominated by existing Council Members and voted upon by the existing
 Council after asking if the potential Member is interested and willing
-to serve in that capacity. The Council will be initially formed from the
+to serve in that capacity. The Council was be initially formed from the
 set of existing Core Developers who, as of January 2018, have been
-active as Package Maintainers.
+active as Package Maintainers. This model was adjusted in March 2022 to consist of 3 nomiated and elected Council members that serve 1 year terms.
 
 When considering potential Members, the Council will look at candidates
 with a comprehensive view of their contributions. This will include but
@@ -209,26 +211,6 @@ The Council reserves the right to eject current Members, other than the
 BDFL, if they are deemed to be actively harmful to the project’s
 well-being, and attempts at communication and conflict resolution have
 failed.
-
-A list of current Steering Council Members is maintained at the page
-Current steering council and institutional partners.
-
-### Council Chair
-
-The Chair will be appointed by the Steering Council. The Chair can stay
-on as long as he/she wants, but may step down at any time and will
-listen to serious calls to do so (similar to the BDFL role). The Chair
-will be responsible for:
-
--   Ensuring a summary of any relevant organisational updates and issues
-    yearly.
--   Ensuring the composition of the Steering Council stays current.
--   Ensuring matters discussed in private by the Steering Council get
-    summarized as meeting minutes (Hack md) to keep the Community
-    informed.
--   Ensuring other important organisational documents (e.g. Code of
-    Conduct, Fiscal Sponsorship Agreement) stay current after they are
-    added.
 
 ### Release Manager
 
