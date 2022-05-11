@@ -271,10 +271,16 @@ getting a general sense of people’s feelings on some issue, and should
 not normally be taken as formal votes. A formal vote only occurs if
 explicitly declared, and if this does occur then the vote should be held
 open for long enough to give all interested Council Members a chance to
-respond – at least one week.
-
-In practice, we anticipate that for most Steering Council decisions
+respond – at least one week. In practice, we anticipate that for most Steering Council decisions
 (e.g., voting in new members) a more informal process will suffice.
+
+The Council will also be responsible for:
+
+-   Ensuring a summary of any relevant organisational updates and issues yearly.
+-   Ensuring the composition of the Steering Council stays current.
+-   Ensuring matters discussed in private by the Steering Council get summarized as meeting minutes (Hack md) to keep the Community informed.
+-   Ensuring other important organisational documents (e.g. Code of Conduct, Fiscal Sponsorship Agreement) stay current after they are added.
+
 
 Institutional Partners and Funding
 ----------------------------------
