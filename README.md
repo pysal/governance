@@ -166,6 +166,20 @@ situations. In particular, the Council may:
     consensus on an issue in a reasonable time frame. Update policy
     documents such as this one.
 
+In addition to the duties described above, the Steering Council shall also
+have maintenance permissions on all repositories within the PySAL ecosystem,
+and reserves the right to commit and merge code across all subpackages. The
+reservation of these rights does not imply maintenance responsibility or 
+editorial authority over any subpackage (save those for which the Council members serve as
+maintainers) in the ecosystem. Rather, the steering committee is permitted to
+exercise judgement in the adoption of community standards across PySAL, and
+may initiate and merge any commit related to package infrastructure,
+documentation, continuous-integration scaffolding, etc. In certain circumstances
+the council may also initiate and merge critical bugfixes and/or generate a 
+package release. These responsibilities are intended to provide a vehicle for
+community standardization, not subvert the authority of any package maintainers.
+
+
 ### Current Council Members
 - Martin Fleischmann @martinfleis
 - James Gaboardi @jGaboardi
@@ -223,9 +237,12 @@ Meta-Package or Package release. This includes:
 -   Creating the release and announcing it on the relevant public
     channels.
 
-The responsibility of all Package resleases stays with the respective
+The responsibility of all Package releases stays with the respective
 Package Maintainers. For more details on what those responsibilities
-look like in practice, see the Sub-Module Contract.
+look like in practice, see the Sub-Module Contract. As described above,
+the Steering Council also has authority generate a package release in
+some circumstances (i.e. to esure the timely inclusion of a critical
+bugfix), however, it is not the Council's responsibility to do so.
 
 ### Conflict of Interest
 
