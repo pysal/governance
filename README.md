@@ -175,7 +175,7 @@ maintainers) in the ecosystem. Rather, the steering committee is permitted to
 exercise judgement in the adoption of community standards across PySAL, and
 may initiate and merge any commit related to package infrastructure,
 documentation, continuous-integration scaffolding, etc. In certain circumstances
-the council may also initiate and merge critical bugfixes and/or generate a 
+the council may also initiate and merge pull requests and/or generate a 
 package release. These responsibilities are intended to provide a vehicle for
 community standardization, not subvert the authority of any package maintainers.
 
@@ -241,7 +241,7 @@ The responsibility of all Package releases stays with the respective
 Package Maintainers. For more details on what those responsibilities
 look like in practice, see the Sub-Module Contract. As described above,
 the Steering Council also has authority generate a package release in
-some circumstances (i.e. to esure the timely inclusion of a critical
+some circumstances (e.g. to esure the timely inclusion of a critical
 bugfix), however, it is not the Council's responsibility to do so.
 
 ### Conflict of Interest
