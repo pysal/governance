@@ -170,11 +170,11 @@ In addition to the duties described above, the Steering Council shall also
 have maintenance permissions on all repositories within the PySAL ecosystem,
 and reserves the right to commit and merge code across all subpackages. The
 reservation of these rights does not imply maintenance responsibility or 
-editorial authority over any subpackage (save those for which the Council members serve as
-maintainers) in the ecosystem. Rather, the steering committee is permitted to
-exercise judgement in the adoption of community standards across PySAL, and
+editorial authority over any subpackage  in the ecosystem (save those for which 
+the Council members serve as maintainers). Rather, the steering committee is permitted to
+exercise judgment in the adoption of community standards across PySAL, and
 may initiate and merge any commit related to package infrastructure,
-documentation, continuous-integration scaffolding, etc. In certain circumstances
+documentation, continuous-integration scaffolding, etc. In certain circumstances,
 the council may also initiate and merge pull requests and/or generate a 
 package release. These responsibilities are intended to provide a vehicle for
 community standardization, not subvert the authority of any package maintainers.
