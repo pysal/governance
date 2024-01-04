@@ -129,7 +129,7 @@ consists of:
 
    -  jgaboardi@gmail.com
 
--  Eli Knapp
+-  Eli Knaap
 
    -  ek@knaaptime.com
 
