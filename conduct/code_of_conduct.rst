@@ -118,14 +118,14 @@ directly, or ask the Committee for advice, in confidence.
 
 You can report issues to the PySAL Code of Conduct committee at
 pysal-conduct@googlegroups.com. Also, resolutions are announced via the
-`Code of Conduct gitter channel`_. Currently, the committee
+`Code of Conduct discord channel`_. Currently, the committee
 consists of:
 
--  Stefanie Lumnitz
+-  Stefanie Lumnitz ***Need a new person***
 
    -  stefanie.lumnitz@gmail.com
 
--  James Gaboardi
+-  James D. Gaboardi
 
    -  jgaboardi@gmail.com
 
@@ -140,11 +140,11 @@ themselves from considering your report. Alternatively, if for any
 reason you feel uncomfortable making a report to the committee, then you
 can also contact:
 
--  Julia Koschinsky
+-  Julia Koschinsky  ***Need a new outside member?***
 
    - jkoschinsky@gmail.com
 
-.. _Code of Conduct gitter channel: https://gitter.im/pysal/code_of_conduct
+.. _Code of Conduct gitter channel: https://gitter.im/pysal/code_of_conduct  ***Need a CoC discord channel***
 
 
 Incident reporting resolution & Code of Conduct enforcement
@@ -189,6 +189,6 @@ we drew content and inspiration:
 -  `SciPy Code of Conduct`_
 -  `Open Source Guides - Your Code of Conduct`_
 
-.. _NumPy Code of Conduct: https://github.com/numpy/numpy/blob/master/doc/source/dev/conduct/code_of_conduct.rst#id1
+.. _NumPy Code of Conduct: https://github.com/numpy/numpy/blob/master/doc/source/dev/conduct/code_of_conduct.rst#id1  ***this link no longer works***
 .. _SciPy Code of Conduct: https://docs.scipy.org/doc/scipy/reference/dev/conduct/code_of_conduct.html
 .. _Open Source Guides - Your Code of Conduct: https://opensource.guide/code-of-conduct/
