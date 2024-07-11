@@ -118,12 +118,12 @@ directly, or ask the Committee for advice, in confidence.
 
 You can report issues to the PySAL Code of Conduct committee at
 pysal-conduct@googlegroups.com. Also, resolutions are announced via the
-`Code of Conduct gitter channel`_. Currently, the committee
+`Code of Conduct discord channel`_. Currently, the committee
 consists of:
 
--  Stefanie Lumnitz
+-  Wei Kang
 
-   -  stefanie.lumnitz@gmail.com
+   -  WeiKang9009@gmail.com
 
 -  James Gaboardi
 
@@ -144,7 +144,7 @@ can also contact:
 
    - jkoschinsky@gmail.com
 
-.. _Code of Conduct gitter channel: https://gitter.im/pysal/code_of_conduct
+.. _Code of Conduct discord channel: https://discord.gg/MAzUtEtRNv
 
 
 Incident reporting resolution & Code of Conduct enforcement
