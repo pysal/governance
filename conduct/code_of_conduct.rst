@@ -123,7 +123,7 @@ consists of:
 
 -  Wei Kang
 
-   -  WeiKang9009@gmail.com
+   -  weikang9009@gmail.com
 
 -  James Gaboardi
 
