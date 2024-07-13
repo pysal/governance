@@ -117,9 +117,7 @@ do that, please feel free to report to the Code of Conduct Committee
 directly, or ask the Committee for advice, in confidence.
 
 You can report issues to the PySAL Code of Conduct committee at
-pysal-conduct@googlegroups.com. Also, resolutions are announced via the
-`Code of Conduct discord channel`_. Currently, the committee
-consists of:
+pysal-conduct@googlegroups.com. Currently, the committee consists of:
 
 -  Wei Kang
 
@@ -143,8 +141,6 @@ can also contact:
 -  Julia Koschinsky
 
    - jkoschinsky@gmail.com
-
-.. _Code of Conduct discord channel: https://discord.gg/MAzUtEtRNv
 
 
 Incident reporting resolution & Code of Conduct enforcement
