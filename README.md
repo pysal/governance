@@ -195,7 +195,7 @@ nominated by existing Council Members and voted upon by the existing
 Council after asking if the potential Member is interested and willing
 to serve in that capacity. The Council was be initially formed from the
 set of existing Core Developers who, as of January 2018, have been
-active as Package Maintainers. This model was adjusted in March 2022 to consist of 3 nomiated and elected Council members that serve 1 year terms.
+active as Package Maintainers. This model was adjusted in March 2022 to consist of 3 nominated and elected Council members that serve 1 year terms.
 
 When considering potential Members, the Council will look at candidates
 with a comprehensive view of their contributions. This will include but
