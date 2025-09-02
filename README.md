@@ -163,8 +163,8 @@ situations. In particular, the Council may:
 -   Make decisions about the Services that are run by The Project and
     manage those Services for the benefit of the Project and Community.
 -   Make decisions when regular community discussion does not produce
-    consensus on an issue in a reasonable time frame. Update policy
-    documents such as this one.
+    consensus on an issue in a reasonable time frame.
+-   Update policy documents, such as this one.
 
 In addition to the duties described above, the Steering Council shall also
 have maintenance permissions on all repositories within the PySAL ecosystem,
