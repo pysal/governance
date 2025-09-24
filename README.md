@@ -181,7 +181,7 @@ community standardization, not subvert the authority of any package maintainers.
 
 
 ### Current Council Members
-- Martin Fleischmann @martinfleis
+- Germano Barcelos dos Santos @gegen07
 - James Gaboardi @jGaboardi
 - Eli Knaap @knaaptime
 
